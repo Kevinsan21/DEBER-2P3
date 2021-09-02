@@ -18,8 +18,9 @@ Dar click en la imagen para una mejor resolucion del texto.
 ![Untitled (4)](https://user-images.githubusercontent.com/84421020/131774226-f0d09fa6-b72a-4de2-855b-54e1ffcea8f4.jpg)
 
 
-.Capitulo 8
+.Capitulo 16
 
+![Untitled (5)](https://user-images.githubusercontent.com/84421020/131776923-631db3c4-d1fe-4719-b7be-c1723d023d20.jpg)
 
 
 
