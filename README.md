@@ -13,7 +13,7 @@
 
 .Capitulo 15
 
-![Untitled (3)](https://user-images.githubusercontent.com/84421020/131773936-c1d77021-fe03-45fb-9f73-256bf9df6b9f.jpg)
+![Untitled (4)](https://user-images.githubusercontent.com/84421020/131774226-f0d09fa6-b72a-4de2-855b-54e1ffcea8f4.jpg)
 
 
 .Capitulo 8
