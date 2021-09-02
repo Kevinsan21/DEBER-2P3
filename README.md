@@ -44,9 +44,19 @@ Dar click en la imagen para una mejor resolucion del texto.
 
 ![olabuenosdias_1](https://user-images.githubusercontent.com/84421020/131875117-0984ae37-5029-4449-b7dd-afb761236ab0.jpg)
 ![olabuenosdias_2](https://user-images.githubusercontent.com/84421020/131875305-8a86e488-962e-4c74-86c9-0623a75f3788.jpg)
-
-
-
+![69_01](https://user-images.githubusercontent.com/84421020/131881244-66b53de8-a130-4227-aaea-4189be899039.jpg)
+![69_02](https://user-images.githubusercontent.com/84421020/131881445-9ce6faa3-ce43-41b7-8e29-bbfd51b747a8.jpg)
+![69_03](https://user-images.githubusercontent.com/84421020/131881472-75f59d56-67ba-4713-934f-2a4d9aea71f8.jpg)
+![69_04](https://user-images.githubusercontent.com/84421020/131881503-d6911c92-692e-4d9d-8fcb-4f0d1796ca27.jpg)
+![69_05](https://user-images.githubusercontent.com/84421020/131881532-ef165de4-5912-4b09-aa2a-209e522cf32e.jpg)
+![69_06](https://user-images.githubusercontent.com/84421020/131881553-e68308a3-a626-4ff1-b060-89a71d6ec04e.jpg)
+![69_07](https://user-images.githubusercontent.com/84421020/131881642-d3ebba0b-f1a7-4ba3-bd3b-55417ef914c1.jpg)
+![69_08](https://user-images.githubusercontent.com/84421020/131881655-04bd636c-fb25-4cc6-9228-8639deb463cb.jpg)
+![69_09](https://user-images.githubusercontent.com/84421020/131881691-f0d8dcba-129d-4712-b3e3-4bf30df848be.jpg)
+![69_10](https://user-images.githubusercontent.com/84421020/131881715-c4d46991-7faa-47dc-b2eb-d981782e63f6.jpg)
+![69_11](https://user-images.githubusercontent.com/84421020/131881745-97e346d7-4d00-4170-8ebe-acf9304f789b.jpg)
+![69_12](https://user-images.githubusercontent.com/84421020/131881770-7e5d3470-f78d-4453-81cb-0a2cecf04362.jpg)
+![69_13](https://user-images.githubusercontent.com/84421020/131881789-250a5b01-062e-4a37-b039-3e66349bbe8d.jpg)
 ![capp 16_1](https://user-images.githubusercontent.com/84421020/131873490-aa5afb1d-8c62-4fc6-bd28-18384d3f95e5.jpg)
 ![capp 16_2](https://user-images.githubusercontent.com/84421020/131873556-38f78955-1042-416c-9840-d7d74141b049.jpg)
 ![capp 16_3](https://user-images.githubusercontent.com/84421020/131873640-69f3de30-3963-4192-8a73-08e4bf13399f.jpg)
