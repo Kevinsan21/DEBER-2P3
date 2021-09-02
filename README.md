@@ -26,7 +26,12 @@ Dar click en la imagen para una mejor resolucion del texto.
 
 # 3. RESOLUCION DE EJERCICIOS
 
-
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0001.jpg)
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0002.jpg)
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0003.jpg)
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0004.jpg)
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0005.jpg)
+![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0006.jpg)
 
 # 4.VIDEO.
 
