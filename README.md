@@ -7,6 +7,15 @@
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
+Objetivo general:
+
+Verificar el comportamiento de las conexiones R,L y C en un regimen de corriente alterna
+
+Objetivo especifico:
+
+Conocer los principios y aplicaciones de las pruebas en corriente alterna
+
+Determinar las diferentes clases de corriente electrica
 
 
 # 2. MARCO TEORICO
@@ -55,35 +64,3 @@ Dar click en la imagen para una mejor resolucion del texto.
 
 # 6.BIBLIOGRAFIA.
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
