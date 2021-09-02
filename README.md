@@ -35,6 +35,16 @@ Dar click en la imagen para una mejor resolucion del texto.
 
 # 3. RESOLUCION DE EJERCICIOS
 
+![Deeber3P3_1](https://user-images.githubusercontent.com/84421370/131882158-e408fe7b-39d3-4451-ba68-71dd21563947.jpg)
+![Deeber3P3_2](https://user-images.githubusercontent.com/84421370/131882168-1089a066-5d5f-4e90-91fa-7e01bc8c678f.jpg)
+![Deeber3P3_3](https://user-images.githubusercontent.com/84421370/131882198-f2efc251-bb66-479a-ad32-f70b2999dd5a.jpg)
+![Deeber3P3_4](https://user-images.githubusercontent.com/84421370/131882216-6cceaab5-c9dc-4dd7-b925-2f7b7e6751d3.jpg)
+![Deeber3P3_5](https://user-images.githubusercontent.com/84421370/131882233-031d8d82-c385-4523-9702-c30f241c12a3.jpg)
+![Deeber3P3_6](https://user-images.githubusercontent.com/84421370/131882260-77ec4e56-0634-429c-a58e-1fbe7dbcc373.jpg)
+![Deeber3P3_7](https://user-images.githubusercontent.com/84421370/131882280-2e9a04a3-c2ba-40f8-b7b4-bab6c5b1674d.jpg)
+![Deeber3P3_8](https://user-images.githubusercontent.com/84421370/131882290-0c44aae8-1405-454b-a75f-ee7490638fbf.jpg)
+
+
 ![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0001.jpg)
 ![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0002.jpg)
 ![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0003.jpg)
