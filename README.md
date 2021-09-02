@@ -33,11 +33,10 @@ Dar click en la imagen para una mejor resolucion del texto.
 ![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0005.jpg)
 ![](https://github.com/Kevinsan21/Pictures-deber2p3/blob/main/cap15%20y%2016_page-0006.jpg)
 
-![image](https://user-images.githubusercontent.com/84421020/131873747-a62f09d6-db01-4481-bb2d-02619f498739.png)
-![image](https://user-images.githubusercontent.com/84421020/131873776-b579c6d5-e146-428d-85c2-f427980215c9.png)
-![image](https://user-images.githubusercontent.com/84421020/131873803-7a25d08f-57a9-4b8f-a226-1b0274d9f6e9.png)
-![image](https://user-images.githubusercontent.com/84421020/131873833-cbd23e0d-554d-4eab-92c2-21196ceea17e.png)
-![image](https://user-images.githubusercontent.com/84421020/131873848-ea135dfc-c2b3-43f8-9032-28c5171f0c5b.png)
+![olabuenosdias_1](https://user-images.githubusercontent.com/84421020/131875117-0984ae37-5029-4449-b7dd-afb761236ab0.jpg)
+![olabuenosdias_2](https://user-images.githubusercontent.com/84421020/131875305-8a86e488-962e-4c74-86c9-0623a75f3788.jpg)
+
+
 
 ![capp 16_1](https://user-images.githubusercontent.com/84421020/131873490-aa5afb1d-8c62-4fc6-bd28-18384d3f95e5.jpg)
 ![capp 16_2](https://user-images.githubusercontent.com/84421020/131873556-38f78955-1042-416c-9840-d7d74141b049.jpg)
