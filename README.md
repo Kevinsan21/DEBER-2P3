@@ -73,10 +73,10 @@ Dar click en la imagen para una mejor resolucion del texto.
 
 
 # 4.VIDEO.
-
+https://www.youtube.com/watch?v=GM14iMi07AM
 
 # 5.CONCLUSION.
-
+A traves del estudio e ondas senusoidales se puede representar las ondas de corriente alterna que es la corriente que comunmente llega a los hogares, el periodo T es el conjunto mas pequeño de un ciclo de valores de la funcion que representa la onda, siendo asi la variable que se repite sus valores en un ciclo. La amplitud que representa el punto maximo de alejamiento de la curva respecto al eje x. La fase inical de una onda muestra el desplazamiento horizontal que realiza la onda.
 
 
 
