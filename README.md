@@ -13,6 +13,8 @@
 
 .Capitulo 15
 
+Dar click en la imagen para una mejor resolucion del texto.
+
 ![Untitled (4)](https://user-images.githubusercontent.com/84421020/131774226-f0d09fa6-b72a-4de2-855b-54e1ffcea8f4.jpg)
 
 
